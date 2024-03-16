@@ -3,6 +3,14 @@ html {
     font-family: libre-franklin, sans-serif;
 }
 
+.bg-neutral {
+  background-image: url('background/pattern.png');
+}
+
+.prose :where(tbody td):not(:where([class~=not-prose],[class~=not-prose] *)) {
+  vertical-align: middle;
+}
+
 .max-logo-height {
     max-width: 5rem;
   }
