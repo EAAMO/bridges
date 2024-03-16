@@ -51,13 +51,18 @@
    weight = 10
 
 [[footer]]
-   name = "[Twitter](https://twitter.com/EAAMO_ORG)"
+   name = "Newsletters"
+   pageRef = "newsletters"
    weight = 20
 
 [[footer]]
-   name = "[YouTube](https://www.youtube.com/channel/UC2hBoxmzDtAwTTjRRM99f4w/videos)"
+   name = "[Twitter](https://twitter.com/EAAMO_ORG)"
    weight = 30
 
 [[footer]]
-   name = "[Mail](mailto:bridges@eaamo.org)"
+   name = "[YouTube](https://www.youtube.com/channel/UC2hBoxmzDtAwTTjRRM99f4w/videos)"
    weight = 40
+
+[[footer]]
+   name = "[Mail](mailto:bridges@eaamo.org)"
+   weight = 50
