@@ -4,7 +4,12 @@ html {
 }
 
 .bg-neutral {
-  background-image: url('background/pattern.png');
+  background: linear-gradient(rgba(255, 255, 255, 0.95), rgba(255, 255, 255, 0.95)), url('../background/pattern.png');
+  height: 100%;
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .prose :where(tbody td):not(:where([class~=not-prose],[class~=not-prose] *)) {
