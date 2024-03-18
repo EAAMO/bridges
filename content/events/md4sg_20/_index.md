@@ -16,8 +16,8 @@ The fourth workshop on **Mechanism Design for Social Good** (MD4SG '20) will be 
 
 - - -
 
-*   Check-out the 🌟[MD4SG Awards 🌟](/awards)
-*   We will hold a social / troubleshooting session on **Sunday August 16 from 1200-1300 ET**. You can find more information on our [virtual venue guide](/virtual_venue)
+*   Check-out the 🌟[MD4SG Awards](community/md4sg_20/awards) 🌟
+*   We will hold a social / troubleshooting session on **Sunday August 16 from 1200-1300 ET**. You can find more information on our [virtual venue guide](community/md4sg_20/virtual_venue)
 *   MD4SG '20 will now be held over 3 days, from August 17-19
 
  

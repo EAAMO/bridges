@@ -16,8 +16,8 @@
   weight = 10
 
 [[main]]
-  name = "Community Events"
-  pageRef = "community"
+  name = "Events"
+  pageRef = "events"
   weight = 20
 
 [[main]]
