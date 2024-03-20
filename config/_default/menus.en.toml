@@ -25,6 +25,11 @@
   pageRef = "projects"
   weight = 30
 
+[[main]]
+  name = "Join Us"
+  pageRef = "join"
+  weight = 40
+
  [[main]]
   identifier = "search"
   weight = 99
