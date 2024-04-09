@@ -1,11 +1,11 @@
 ---
-title: "Coversations with Practitioners"
+title: "Conversations with Practitioners"
 date: 2024-02-02
 draft: false
 description: "The aim of this working group is to learn from practitioners. We want to know their story, understand their main challenges, and discover if tools from mechanism design apply to their domain."
 summary: "We aim to bridge research and practice by hosting informal interviews with practitioners who work with disadvantaged and underserved communities."
 showTableOfContents: false
-slug: "coversations-with-practitioners"
+slug: "conversations-with-practitioners"
 layout: simple
 ---
 
