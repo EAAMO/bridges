@@ -5,7 +5,7 @@ draft: false
 description: "The EAAMO-Bridges inequality working group studies how optimization, incentive design, and machine learning can mitigate or magnify social and economic inequality."
 summary: "We study how computational methods can either address or exacerbate inequality, both globally and for vulnerable populations in the United States."
 showTableOfContents: true
-slug: "inqueality"
+slug: "Inequality"
 layout: simple
 ---
 
