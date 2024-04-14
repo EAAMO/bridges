@@ -37,3 +37,18 @@ html {
     max-width:50%;
   }
 }
+
+@media (min-width: 640px) {
+  .sm\:me-7 {
+    margin-inline-end: 1.3rem;
+  }
+}
+
+.text-lg {
+  font-size: 1rem;
+  line-height: 1.75rem;
+}
+
+.text-end {
+  text-align: center;
+}

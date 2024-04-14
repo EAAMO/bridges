@@ -30,6 +30,16 @@
   pageRef = "join"
   weight = 40
 
+[[main]]
+  name = "Global Community"
+  url = "https://www.eaamo.org/"
+  weight = 50
+
+[[main]]
+  name = "Conference"
+  url = "https://conference.eaamo.org/"
+  weight = 60
+
  [[main]]
   identifier = "search"
   weight = 99
