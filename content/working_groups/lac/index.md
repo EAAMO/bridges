@@ -39,6 +39,7 @@ If you’re interested in joining EJUCIAM and our broader initiatives around ind
 ||||
 |--- |--- |--- |
 |[Francisco Marmolejo Cossío](https://www.fmarmolejo.com/)|Postdoctoral Fellow|Harvard University|
+|[Michelle González Amador](https://www.m-gonzalezamador.com/)|Doctoral Student|UNU-MERIT and Maastricht University|
 
 ## Working Group Members
 ||||
@@ -59,7 +60,6 @@ If you’re interested in joining EJUCIAM and our broader initiatives around ind
 |María Guadalupe Márquez Hinojosa|Master's Student in Public Health|UASLP|
 |María Rosario Niniz Silva|Master's Student in Public Health|UASLP|
 |María Teresa Santiago Marcelino|Master's Student in Human Rights|UASLP|
-|[Michelle González Amador](https://www.m-gonzalezamador.com/)|Doctoral Student|UNU-MERIT and Maastricht University|
 |Nancy Santiago Santos|Bachelor's in Architecture|UASLP|
 |Ofelia López Mejía|Postdoctoral Researcher in Law and Human Rights|UAS|
 |[Paula Rodríguez Díaz](https://paularodrid.wordpress.com/)|Doctoral Student|Harvard University|
