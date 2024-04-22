@@ -9,6 +9,8 @@ slug: "lac"
 layout: simple
 ---
 
+![image info](/rednacecyt/ejuciam.jpeg)
+
 The Working Group on Equity and Justice for Indigenous Communities in the Americas (EJUCIAM from the group name in Spanish) focuses on addressing the historical and systemic inequalities faced by Indigenous peoples across the region. This collaborative effort brings together researchers, members of indigenous communities, activists, and community leaders to formulate policies, strategies, and programs that promote fairness, access to resources, and the protection of rights for Indigenous communities amongst other topics. By focusing on critical issues such as land rights, education, healthcare, and cultural preservation, the working group seeks to dismantle barriers and advocate for inclusive development that respects and integrates Indigenous knowledge and traditions. Through dialogue, research, and advocacy, this group endeavors to create a more equitable and just society, where the voices of Indigenous peoples are heard, respected, and integrated into the national fabric of countries in the Americas.
 
 ## MD4SG Summer of Science:
