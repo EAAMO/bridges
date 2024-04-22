@@ -1,5 +1,5 @@
 ---
-title: "Equity and Justice for Indigenous Communities in Latin America"
+title: "Equity and Justice for Indigenous Communities in the Americas"
 date: 2024-01-02
 draft: false
 description: "The EJUCIAL working group is an extension of the MD4SG Summer of Science program which supports female students from indigenous communities in Mexico as they design and execute research projects aimed at improving their local communities."
@@ -9,13 +9,13 @@ slug: "lac"
 layout: simple
 ---
 
-The Working Group on Equity and Justice for Indigenous Communities in Latin America (EJUCIAL from the group name in Spanish) focuses on addressing the historical and systemic inequalities faced by Indigenous peoples across the region. This collaborative effort brings together researchers, members of indigenous communities, activists, and community leaders to formulate policies, strategies, and programs that promote fairness, access to resources, and the protection of rights for Indigenous communities amongst other topics. By focusing on critical issues such as land rights, education, healthcare, and cultural preservation, the working group seeks to dismantle barriers and advocate for inclusive development that respects and integrates Indigenous knowledge and traditions. Through dialogue, research, and advocacy, this group endeavors to create a more equitable and just society, where the voices of Indigenous peoples are heard, respected, and integrated into the national fabric of Latin American countries.
+The Working Group on Equity and Justice for Indigenous Communities in the Americas (EJUCIAM from the group name in Spanish) focuses on addressing the historical and systemic inequalities faced by Indigenous peoples across the region. This collaborative effort brings together researchers, members of indigenous communities, activists, and community leaders to formulate policies, strategies, and programs that promote fairness, access to resources, and the protection of rights for Indigenous communities amongst other topics. By focusing on critical issues such as land rights, education, healthcare, and cultural preservation, the working group seeks to dismantle barriers and advocate for inclusive development that respects and integrates Indigenous knowledge and traditions. Through dialogue, research, and advocacy, this group endeavors to create a more equitable and just society, where the voices of Indigenous peoples are heard, respected, and integrated into the national fabric of countries in the Americas.
 
 ## MD4SG Summer of Science:
-The EJUCIAL working group is an extension of the MD4SG Summer of Science program which supports female students from indigenous communities in Mexico as they design and execute research projects aimed at improving their local communities. In the past two years, we have supported more than 20 female researchers from 11 indigenous communities throughout Mexico (Cuanajo, Purépecha, Mixteco, Tepehuán, Rarámuri, Mazahua, Zapoteca, Náhuatl, Tének, Mazateca and Zoque).
+The EJUCIAM working group is an extension of the MD4SG Summer of Science program which supports female students from indigenous communities in Mexico as they design and execute research projects aimed at improving their local communities. In the past two years, we have supported more than 20 female researchers from 11 indigenous communities throughout Mexico (Cuanajo, Purépecha, Mixteco, Tepehuán, Rarámuri, Mazahua, Zapoteca, Náhuatl, Tének, Mazateca and Zoque).
 
 ## Structure:
-The EJUCIAL working group meets virtually every two weeks on zoom. In our meetings we share and discuss work from both our members and invited speakers which is of relevance to indigenous communities in Latin America.
+The EJUCIAM working group meets virtually every two weeks on zoom. In our meetings we share and discuss work (typically in Spanish) from both our members and invited speakers which is of relevance to indigenous communities in the Americas.
 
 ## Relevant Themes:
 - Human Rights
@@ -23,6 +23,9 @@ The EJUCIAL working group meets virtually every two weeks on zoom. In our meetin
 - Public Health
 - Cultural Preservation
 - Environmental Conservation
+
+## Join Us:
+If you’re interested in joining EJUCIAM and our broader initiatives around indigenous communities, please feel free to reach out to our working group organizers or fill out this form: https://forms.gle/7eE1dAoeJ1wMPmri9
 
 ## Working Group Organizer
 ||||
