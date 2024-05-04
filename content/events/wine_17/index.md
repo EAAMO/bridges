@@ -1,5 +1,5 @@
 ---
-title: "Tutorial @ Data Science Africa (DSA) 2020"
+title: "Tutorial @ Conference on Web and Internet Economics (WINE) 2017"
 date: 2017-01-03
 draft: false
 description: ""

@@ -1,0 +1,8 @@
+Can you create me a thumbnail for a working group based on this description:
+
+Meetup at a conference in Washington DC. Please don't write any text on the image
+
+Please use the following colors:
+#FFF8EE, #FFC969, #F06B52, #85CDD3, #1F2A60, white
+
+The style should be minimalist, with smooth lines and cartoon like elements
