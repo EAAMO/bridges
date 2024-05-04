@@ -1,5 +1,5 @@
 ---
-title: "June 2023"
+title: "MD4SG Newsletter #5 - June 2023"
 date: 2023-06-01
 externalUrl: "https://www.calameo.com/read/007097616c79de4c94590"
 summary: ""
