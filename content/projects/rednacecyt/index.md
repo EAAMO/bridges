@@ -34,43 +34,83 @@ We are thrilled to announce that **this year we have accepted 20 female students
 
 {{< person src="rednacecyt/Maria-Guadalupe-Garcia-Alonso.jpg" name="María Guadalupe García Alonso" state="Michoacán" status="Student of Master of Science in Rural Development at U. Autónoma de Chapingo" overview="Perception and social participation in the environmental restoration programs of the basin of Lake Patzcuaro, Michoacán" supervisor="Diego M. Macall" community="Cuanajo" >}}
 
+- - -
+
 {{< person src="rednacecyt/Viridiana-Camacho-Panfilo.jpg" name="Viridiana Camacho Pánfilo" state="Michoacán" status="In the process of admission to postdoctoral program" overview="The Purépecha Indians and the status of father of a family. The actors and the political practice of the Purépecha peoples of Michoacán in the first half of the 19th century." supervisor="Francisco Marmolejo-Cossio" community="Purépecha" >}}
+
+- - -
 
 {{< person src="rednacecyt/Maria-Rosario-Niniz-Silva.jpg" name="María Rosario Niniz Silva" state="Michoacán" status="PhD student in Social Sciences in Rural Studies at El Colegio de Michoacán" overview="Acquired disability, family dynamics and gender repositioning in a context of transnational migration. The case of Purépecha migrants in the United States" supervisor="Agnes Medinaceli" community="Purépecha" >}}
 
+- - -
+
 {{< person src="rednacecyt/Ofelia-Lopez-Mejia.jpg" name="Ofelia López Mejía" state="Sinaloa" status="Postdoctoral student in Law Sciences at the Autonomous University of Sinaloa" overview="Indigenous women and political representation in the municipality of Elota, Sinaloa" supervisor="Flor Gerardou and Blanca Moran" community="Mixteco" >}}
+
+- - -
 
 {{< person src="rednacecyt/Rosa-Adriana-Rivas-Castillo.jpg" name="Rosa Adriana Rivas Castillo" state="Chihuahua" status="Bachelor's student intending to pursue a master's degree next year" overview="Impact of violence on mental health for the Rarámuris women of the Sierra Tarahumara in Chihuahua" supervisor="Alejandro Quiroz" community="Tarahumara y Tepehuan" >}}
 
+- - -
+
 {{< person src="rednacecyt/Argelia-Contreras-Aguirre.jpg" name="Argelia Contreras Aguirre" state="Chihuahua" status="Admitted to the master's degree in Intercultural Education from the National Pedagogical University of Chihuahua" overview="Address some needs around artistic education" supervisor="Cristina Gorrostieta" community="Rarámuri" >}}
+
+- - -
 
 {{< person src="rednacecyt/Alma-Benite-Cruz-Gonzalez.jpg" name="Alma Benita Cruz González" state="Estado de México" status="Master's student in Social Medicine" overview="Traditional medicine in the health services of CESSA, Amealco, through intercultural health." supervisor="Alicia Prieto Langarica" community="Mazahua" >}}
 
+- - -
+
 {{< person src="rednacecyt/Flor-Angel-Perez-Sanchez.jpg" name="Flor Ángel Pérez Sánchez" state="Veracruz" status="In the process of admission to a Master's Degree in Tropical Ecology at CITRO" overview="Socio-environmental perception of the Tehuantepec Isthmus Interoceanic Corridor project in the Ubero to Mogoñe section, Oaxaca." supervisor="Tilsa Oré Mónago" community="Zapoteca" >}}
+
+- - -
 
 {{< person src="rednacecyt/Yasmin-Cruz-Cruz.png" name="Yasmín Cruz Cruz" state="Veracruz" status="Master's student in Administrative Engineering at TNM" overview="Development of a mobile application and analysis with data mining for the detection of the autism spectrum." supervisor="Santiago Correa Cardona" community="Náhuatl" >}}
 
+- - -
+
 {{< person src="rednacecyt/Yesica-Gomez-Hernandez.jpg" name="Yésica Gómez Hernández" state="Puebla" status="In the process of admission to the Doctorate in Educational Research at the Autonomous University of Tlaxcala" overview="Being a woman, indigenous and scientific: an analysis of academic and professional trajectories based on ethnic, linguistic and gender conditions." supervisor="Dr. Angel Garcia" community="Náhuatl" >}}
+
+- - -
 
 {{< person src="rednacecyt/Edna-Marlene-Martinez-Hernandez.jpg" name="Edna Marlene Martínez Hernández" state="San Luis Potosí" status="Student of the Master of Science in Public Health at UANL" overview="Communication barriers and challenges in health education about COVID-19 in indigenous communities of the Huasteca Potosina." supervisor="Michelle González Amador" community="Tének" >}}
 
+- - -
+
 {{< person src="rednacecyt/Leydi-Rojas-Martinez.jpg" name="Leydi Rojas Martínez" state="San Luis Potosí" status="Student of the Master of Science in Public Health at UANL" overview="Accessibility to health services during the COVID-19 pandemic in indigenous communities of the Huasteca Potosina." supervisor="Salvador Ruiz Correa" community="Tének" >}}
+
+- - -
 
 {{< person src="rednacecyt/Anai-Domingo-Martinez.jpg" name="Anai Domingo Martínez" state="San Luis Potosí" status="Master's student in Public Health at UASLP" overview="An met'antalab, ¿jant'ey a exlal?: evaluation of an educational intervention for indigenous adolescents about the level of knowledge about the Human Papilloma Virus." supervisor="Lucas Gomez Tobon" community="Tének" >}}
 
+- - -
+
 {{< person src="rednacecyt/Maria-Guadalupe-Marquez-Hinojosa.jpg" name="María Guadalupe Márquez Hinojosa" state="San Luis Potosí" status="Master's student in Public Health at UASLP" overview="Level of knowledge about HPV in a Nahuatl-speaking indigenous population after an educational intervention" supervisor="Dra. Areli Vázquez Juárez" community="Tének" >}}
+
+- - -
 
 {{< person src="rednacecyt/Iridiana-Salinas-Hernandez.jpg" name="Iridiana Salinas Hernández" state="San Luis Potosí" status="Master's student in Accounting at UANL" overview="Economic inequality is an obstacle to a better quality of life in the families of the community of Itztacapa Xilitla S.L.P." supervisor="Imelda Flores Vazquez" community="Náhuatl" >}}
 
+- - -
+
 {{< person src="rednacecyt/Idalia-Rojas-Martinez.jpg" name="Idalia Rojas Martínez" state="San Luis Potosí" status="In the process of admission to the specialty in advanced clinical nursing" overview="Inclusion of mother tongue-speaking nurses for the care of indigenous peoples of the Huasteca Potosina in the second and third level of care" supervisor="Alejandro Robinson-Cortés" community="Tének" >}}
+
+- - -
 
 {{< person src="rednacecyt/Claudia-Martinez.jpg" name="Claudia Martínez Martínez" state="San Luis Potosí" status="Master's student in International Relations at UANL" overview="The perception of indigenous women from the Huasteca Zone in the Tének Region, S. L. P. regarding access to higher education in Mexico" supervisor="Rubén Martínez Cárdenas" community="Tének" >}}
 
+- - -
+
 {{< person src="rednacecyt/Adriana-Santiago-Marcelino.jpg" name="Adriana Santiago Marcelino" state="San Luis Potosí" status="Master's degree in Human Rights at UASLP" overview="Evaluation of the rights of children in Education and health in the indigenous community" supervisor="Rubén Martínez Cárdenas" community="Tének" >}}
+
+- - -
 
 {{< person src="rednacecyt/Celeste-Kristal-Flores-Cuevas.jpg" name="Celeste Cristal Flores Cuevas" state="San Luis Potosí" status="Graduated from the master's degree in sustainable water management at El Colegio de San Luis" overview="Between community and cultural management of water in Loma Chapultepec, Huautla, Oaxaca" supervisor="Egidio Tentori" community="Mazateca" >}}
 
+- - -
+
 {{< person src="rednacecyt/Martha-Yadira-Jimenez-Estrada.jpg" name="Martha Yadira Jiménez Estrada" state="Chiapas" status="Master's student in Intercultural Studies" overview="Through my project 'Orality: Biocultural Heritage of the Zoques,' I aim to create bilingual stories in both Zoque and Spanish, using written and audio-visual formats, to preserve our community's oral traditions and encourage language learning, thereby enriching our cultural heritage." supervisor="María Ana Chavana Villalobos and Jorge Garcia Ponce" community="Zoque" >}}
+
+- - -
 
 ## Organizing Team and Mentors
 
