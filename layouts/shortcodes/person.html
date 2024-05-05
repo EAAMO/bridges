@@ -1,0 +1,19 @@
+<div class="flex items-start justify-between sm:items-center">
+    <figure class="chairimg">
+        <img src="{{ .Get "src" }}"
+            style="border-radius:5px;width: 174px;"
+            alt="{{ .Get "name" }}">
+        <figcaption style="text-align:center"><b>{{ .Get "name" }}</b></figcaption>
+    </figure>
+    <div>
+        <b>State: </b><span>{{ .Get "state"}}</span>
+        <br>
+        <b>Student Status: </b><span>{{ .Get "status"}}</span>
+        <br>
+        <b>Project Overview: </b><span>{{ .Get "overview"}}</span>
+        <br>
+        <b>Supervisor: </b><span>{{ .Get "supervisor"}}</span>
+        <br>
+        <b>Indigenous Community: </b><span>{{ .Get "community"}}</span>
+    </div>
+</div>
