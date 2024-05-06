@@ -1,0 +1,22 @@
+<div style="display: flex;align-items: center;">
+    <div style="flex: 1; padding: 10px;">
+        <figure>
+            <img src="{{ .Get "src" }}"
+                style="border-radius:5px;"
+                alt="{{ .Get "name" }}">
+            <figcaption style="text-align:center"><b>{{ .Get "name" }}</b></figcaption>
+        </figure>
+    </div>
+    <div style="flex: 3;padding: 10px;display: flex;flex-direction: column;align-content: flex-start;">
+        <div style="display: flex"><b>Estado: </b><span> {{ .Get "state"}}</span></div>
+        <br/>
+        <div style="display: flex"><b>Adscripción: </b><span> {{ .Get "status"}}</span></div>
+        <br/>
+        <div style="display: flex"><b>Resumen del Proyecto: </b><span> {{ .Get "overview"}}</span></div>
+        <br/>
+        <div style="display: flex"><b>Supervisor: </b><span> {{ .Get "supervisor"}}</span></div>
+        <br/>
+        <div style="display: flex"><b>Comunidad Indígena: </b><span> {{ .Get "community"}}</span></div>
+    </div>
+    <hr/>
+</div>

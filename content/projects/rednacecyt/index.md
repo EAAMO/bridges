@@ -9,6 +9,8 @@ slug: "rednacecyt"
 layout: simple
 ---
 
+[Versión en Español](rednacecyt_es)
+
 {{< figure src="rednacecypt_md4sg.png" >}}
 
 The goal of the Summer of Science Program is to support female students from indigenous communities in Mexico as they design and execute research projects aimed at improving their local communities. Applicants to the program are students at various levels of postgraduate education, and they prepare proposals aimed at using techniques from algorithms, optimization, and mechanism design, along with insights from the social sciences and humanistic studies to address relevant issues in their communities. Students who are accepted to the program are paired with mentors from MD4SG to work through their projects over the Summer. The end deliverable of this collaboration between mentors and students is a poster presentation which the students give at the Association of Computing Machinery ([ACM](https://www.acm.org/)) Conference on Equity and Access in Algorithms, Mechanisms, and Optimization ([EAAMO](https://eaamo.org/)).
