@@ -13,13 +13,13 @@ layout: simple
 
 ![image info](rednacecyt/ejuciam.jpeg)
 
-El Grupo de Trabajo sobre Equidad y Justicia para las Comunidades Indígenas en Américas (EJUCIAL) es una iniciativa enfocada en abordar las desigualdades históricas y sistémicas enfrentadas por los pueblos indígenas en toda la región. Este esfuerzo colaborativo reúne a investigadores, miembros de comunidades indígenas, activistas y líderes comunitarios para formular políticas, estrategias y programas que promuevan la equidad, el acceso a recursos y la protección de derechos para las comunidades indígenas. Al enfocarse en temas críticos como los derechos sobre la tierra, la educación, la atención médica y la preservación cultural entre otros, el grupo de trabajo busca desmantelar barreras y abogar por un desarrollo inclusivo que respete e integre el conocimiento y las tradiciones indígenas. A través del diálogo, la investigación y la defensa, este grupo se esfuerza por crear una sociedad más equitativa y justa, donde las voces de los pueblos indígenas sean escuchadas, respetadas e integradas en el tejido nacional de los países americanos.
+El Grupo de Trabajo sobre Equidad y Justicia para las Comunidades Indígenas en las Américas (EJUCIAM) es una iniciativa enfocada en abordar las desigualdades históricas y sistémicas enfrentadas por los pueblos indígenas en toda la región. Este esfuerzo colaborativo reúne a investigadores, miembros de comunidades indígenas,  activistas y líderes comunitarios para formular políticas, estrategias y programas que promuevan la equidad, el acceso a recursos y la protección de derechos para las comunidades indígenas. Al enfocarse en temas críticos como los derechos sobre la tierra, la educación, la atención médica y la preservación cultural entre otros, el grupo de trabajo busca desmantelar barreras y abogar por un desarrollo inclusivo que respete e integre el conocimiento y las tradiciones indígenas. A través del diálogo, la investigación y la defensa, este grupo se esfuerza por crear una sociedad más equitativa y justa, donde las voces de los pueblos indígenas sean escuchadas, respetadas e integradas en el tejido nacional de los países americanos.
 
 ## Verano de las Ciencias Indígena MD4SG:
-El grupo de trabajo EJUCIAL es una extensión del programa Verano de las Ciencias Indígena de MD4SG dentro del cual se apoya a mujeres estudiantes de diversas comunidades indígenas en México en el diseño y ejecución de proyectos de investigación dirigidos a mejorar sus comunidades. En los últimos dos años del Verano de las Ciencias hemos apoyado a más de 20 investigadoras indígenas de 11 comunidades indígenas (Cuanajo, Purépecha, Mixteco, Tepehuán, Rarámuri, Mazahua, Zapoteca, Náhuatl, Tének, Mazateca y Zoque).
+El grupo de trabajo EJUCIAM es una extensión del programa Verano de las Ciencias Indígena de MD4SG dentro del cual se apoya a mujeres estudiantes de diversas comunidades indígenas en México en el diseño y ejecución de proyectos de investigación dirigidos a mejorar sus comunidades. En los últimos dos años del Verano de las Ciencias hemos apoyado a más de 20 investigadoras indígenas de 11 comunidades indígenas (Cuanajo, Purépecha, Mixteco, Tepehuán, Rarámuri, Mazahua, Zapoteca, Náhuatl, Tének, Mazateca y Zoque). 
 
 ## Estructura:
-El grupo EJUCIAL se reúne virtualmente cada 2 semanas en zoom. En nuestras reuniones compartimos y discutimos trabajo relevante para comunidades indígenas en Américas, ya sea de parte de los integrantes de nuestro grupo o por pláticas invitadas.
+El grupo EJUCIAM se reúne virtualmente cada 2 semanas en zoom. En nuestras reuniones compartimos y discutimos trabajo relevante para comunidades indígenas en las Américas (generalmente en Español), ya sea de parte de los integrantes de nuestro grupo o por pláticas invitadas.
 
 ## Relevant Themes:
 - Derechos Humanos
@@ -27,6 +27,9 @@ El grupo EJUCIAL se reúne virtualmente cada 2 semanas en zoom. En nuestras reun
 - Salud Publica
 - Preservacion Cultural
 - Conservación Medioambiental
+
+## Cómo unirse a EJUCIAM:
+Si está interesado/a/e en unirse a EJUCIAM y nuestras iniciativas más amplias en torno a comunidades indígenas, no dude en comunicarse con los organizadores de nuestro grupo de trabajo o completar este formulario: https://forms.gle/7eE1dAoeJ1wMPmri9
 
 ## Organizadoras
 ||||
