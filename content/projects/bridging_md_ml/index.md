@@ -5,7 +5,7 @@ draft: false
 description: "In March 2020, the MD4SG working group on Fairness, Bias, and Discrimination got together to launch a series of research projects. Besides Jessica Finocchiaro and Faidra Monachou, Roland Maio, Gourab Patro, Manish Raghavan, Ana-Andreea Stoica, and Stratis Tsirtsis were interested in Equitable Mechanism Design. We were from different backgrounds not only by education but also from different parts of the World. "
 summary: "Jessica Finocchiaro and Faidra Monachou wanted to share their experiences while working on the project Bridging Mechanism Design and Machine Learning towards Algorithmic Fairness that got published at ACM Conference on Fairness, Accountability, and Transparency 2021."
 showTableOfContents: false
-slug: "covid-19-vaccines"
+slug: "bridging-md-ml"
 layout: simple
 ---
 [Jessica Finocchiaro](https://www.jessiefin.com/) and [Faidra Monachou](https://faidramonachou.github.io/) wanted to share their experiences while working on the project *[Bridging Mechanism Design and Machine Learning towards Algorithmic Fairness](https://arxiv.org/abs/2010.05434)* that got published at [ACM Conference on Fairness, Accountability, and Transparency 2021](https://facctconference.org/2021/).
