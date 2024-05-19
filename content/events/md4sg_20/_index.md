@@ -1,6 +1,6 @@
 ---
 title: "4th Workshop on Mechanism Design for Social Good - MD4SG '20"
-date: 2021-01-03
+date: 2020-01-03
 draft: false
 description: ""
 summary: ""
