@@ -1,6 +1,6 @@
 ---
 title: "Social Event @ ICML '24"
-date: 2023-01-04
+date: 2024-07-27
 draft: false
 description: ""
 summary: ""
