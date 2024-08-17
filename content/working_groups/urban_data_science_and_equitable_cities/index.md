@@ -2,7 +2,7 @@
 title: "Urban Data Science & Equitable Cities"
 date: 2024-08-17
 draft: false
-description: "Working Group on Urban Data Science & Equitable Cities focuses on the computational analysis of urban data to explore and address inequities in urban life, hosting speakers, studying papers, and workshopping late-stage research. Originating as a Cornell reading group in Summer 2024, it includes members from diverse fields such as information science, computer science, urban planning, sociology, and public policy.."
+description: "Working Group on Urban Data Science & Equitable Cities focuses on the computational analysis of urban data to explore and address inequities in urban life, hosting speakers, studying papers, and workshopping late-stage research. Originating as a Cornell reading group in Summer 2024, it includes members from diverse fields such as information science, computer science, urban planning, sociology, and public policy."
 summary: "We focus on the computational analysis of urban data to explore and address inequities in urban life, hosting speakers, studying papers, and workshopping late-stage research."
 showTableOfContents: false
 slug: "urban-ds-equitable-cities"
