@@ -24,13 +24,13 @@ The EAAMO-Bridges inequality working group studies how optimization, incentive d
 
 ## Working Group Organizers
 
-|                |                                         |                          |
+|        Name         |     Position        |               Affiliation                   |
 |----------------|-----------------------------------------|--------------------------|
 | [Samuel Taggart](http://www.samueltaggart.com/) | Assistant Professor in Computer Science | Oberlin College          |
 
 ## Working Group Members
 
-|                        |                                                       |                                        |
+|        Name         |     Position        |               Affiliation                   |
 |------------------------|-------------------------------------------------------|----------------------------------------|
 | [Rediet Abebe](https://www.cs.cornell.edu/~red/)           | Assistant Professor of Computer Science               | UC Berkeley                           |
 | [Lenore J. Cowen](http://www.cs.tufts.edu/~cowen/)        | Professor of Computer Science                         | Tufts University                       |

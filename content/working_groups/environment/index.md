@@ -15,7 +15,7 @@ According to the Intergovernmental Panel on Climate Change (IPCC) report, human-
 
 We welcome involvement in this working group! If you're interested in joining, please reach out to one of the organizers:
 
-|                 |             |                                  |
+|        Name         |     Position        |               Affiliation                   |
 |-----------------|-------------|----------------------------------|
 | [Hannah Murray](https://www.linkedin.com/in/hmmurray/) | PhD Student | University of Southern California             |
 | [Anushka Murthy](https://anushkacm.github.io/) | PhD Student | Stanford University             |

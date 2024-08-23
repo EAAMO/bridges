@@ -16,7 +16,7 @@ We meet every other week for a presentation from an invited speaker or group mem
 
 We welcome involvement in this working group! If you're interested in joining, please reach out to one of the organizers:
 
-|                 |             |                                  |
+|        Name         |     Position        |               Affiliation                   |
 |-----------------|-------------|----------------------------------|
 | [Jennah Gosciak](https://jennahgosciak.github.io/wp/about.html) | PhD Student | Cornell University             |
 | [Matt Franchi](https://mattwfranchi.github.io/)     | PhD Student | Cornell University |

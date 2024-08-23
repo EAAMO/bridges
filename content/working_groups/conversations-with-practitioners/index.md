@@ -9,103 +9,69 @@ slug: "conversations-with-practitioners"
 layout: simple
 ---
 
-The EAAMO-Bridge community aims to bridge research and practice, but many researchers have few opportunities to connect with practitioners. The aim of this working group is to learn from practitioners. We want to know their story, understand their main challenges, and discover if tools from mechanism design apply to their domain.
+The EAAMO-Bridges community aims to bridge research and practice, but many researchers have few opportunities to connect with practitioners. The aim of this working group is to learn from practitioners and contribute our skillsets when collaborating on problems with them. These practitioners work with historically marginalized communities and often have an interest, or expertise, in the ways technology disproportionately affects these communities. 
 
-For our purposes, we define a practitioner as any person who works with (or on policy related to) marginalized and disadvantaged communities.
+In previous years, our group has been focused solely on interviewing practitioners. The group meets at the beginning of the year to get to know one another; throughout the year, our group members lead informal interviews with practitioners of their choosing alongside our group (similar to a “fireside chat”). After the interview, we summarise the main insights into a blog post, examples of which can be found below.
 
-The group meets every two weeks. At each meeting, a group member will invite a practitioner for an informal live interview with the group (similar to a "fireside chat"). After the interview, we summarise the main insights into a blog post.
+For the 2024-2025 year, we aim to build a new structure. In the autumn, we plan to hold multiple conversations with one organization to scope a project with them to which our members can contribute. We have a few different organizations we are in touch with, including [Chayn](https://www.chayn.co/) (gender based violence tech-focused NGO), the EAAMO Social Hackathon organizers (who have access to a Mexican breast cancer dataset with environmental and policy elements), [AlgorithmWatch](https://algorithmwatch.org/en/), and the [Center for Analytical Approaches to Social Innovation](https://www.caasi.pitt.edu/). For the winter/spring 2025, we then will dive into a project we have designed with our partner organization. 
 
 ### Interviews
 
-Here is a list of practitioners our group has interviewed. Click on the practitioner's name to read the summary blog post of the interview.
+Here is an abridged list of practitioners our group has interviewed. Click on the practitioner’s name to read the summary blog post of the interview. We have the full list of our interviews on the [EAAMO Medium](https://eaamo.medium.com/) blog.
 
-#### [Swapna Reddy](https://md4sg.medium.com/interview-with-swapna-reddy-8d0d4cc39483)
+#### [Dan Sutch (May 2024)](https://medium.com/eaamo/interview-with-dan-sutch-2735e11048a2)
 
-Co-founder and co-executive director of Asylum Seeker Advocacy Project (ASAP), a non-profit organisation that strives to improve the lives of asylum seekers in the United States.
+Dan Sutch is the co-founder and director of CAST, the Centre for Acceleration of Social Technology in the UK, where he works with charities and third-sector organisations to use and adjust to digital technologies to address big social challenges.
 
-#### [Katie Bridges](https://md4sg.medium.com/interview-with-katie-bridges-70e772aaa158)
+#### [Yolanda Booyzen (April 2024)](https://medium.com/eaamo/interview-with-yolanda-booyzen-a064ea8b9653)
 
-Senior business intelligence analyst for the city of Boulder, Colorado, who has a passion for using data to inform decision making in the public sphere.
+Yolanda Booyzen is the Director of Development and Communications of HURIDOCS which is an NGO that helps human rights groups gather, organise and use information to create positive change in the world.
 
-#### [Gesine Reinicke](https://md4sg.medium.com/interview-with-gesine-reinicke-4e014029b6ce)
+#### [Damini Satija (November 2023)](https://medium.com/eaamo/interview-with-damini-satija-ebdee94316ae)
 
-Training Coordinator at SprInt, which is a non-profit program in Germany that trains unemployed migrants to be language and integration mediators for other migrants.
+Damini Satija is a human rights and public policy professional working on data and Artificial Intelligence. She is Head of the Algorithmic Accountability Lab and a Deputy Director at Amnesty Tech.
 
-#### [Kristina Koenig](https://medium.com/md4sg/fighting-fire-with-fire-a-conversation-with-kristina-koenig-bac0788f9496)
+#### [Michela Martinazzi and Josh Komarovsky (April 2023)](https://medium.com/eaamo/interview-with-michela-martinazzi-and-josh-komarovsky-a50954cf96c1)
 
-Manages carbon abatement programs working with Indigenous peoples in the Kimberley Region of Western Australia.
+Michela and Josh are volunteers at the New York Community Action Project (NYCAP), an organization that advocates for community control of the local city police service to prevent police brutality.
 
-#### [Yeukai Chideya](https://md4sg.medium.com/interview-with-yeukai-chideya-a7d209da300e)
-
-Social worker based in Cape Town, South Africa, that worked with refugees at the The Trauma Centre for Survivors of Violence and Torture. Yeukai also started an NGO called the Ruremekedzo Project which delivers emergency packs to women and children facing a humanitarian crisis.
-
-#### [Tiasia O'Brien](https://medium.com/md4sg/interview-with-tiasia-obrien-332b1d6ae70c)
-
-Founder of Seam Social Labs, an organisation that aims to transform community voices into a valuable data source for equitable design outcomes.
-
-#### [Luke Hohmann](https://medium.com/md4sg/interview-with-luke-hohmann-263cef858ec3)
-
-Founder and CEO of FirstRoot, a startup that implements participatory budgeting in schools.
-
-#### [Su Wang](https://md4sg.medium.com/interview-with-su-wang-72d57e67ddef)
+#### [Su Wang (Aug 2022)](https://md4sg.medium.com/interview-with-su-wang-72d57e67ddef)
 
 Co-founder of SEED for Social Innovation in China, a nonprofit organization that discovers, trains, and connects China’s young social innovators.
 
- 
+#### [Kristina Koenig (July 2022)](https://medium.com/md4sg/fighting-fire-with-fire-a-conversation-with-kristina-koenig-bac0788f9496)
 
-_Summaries of the following interviews are coming soon._
+Manages carbon abatement programs working with Indigenous peoples in the Kimberley Region of Western Australia.
 
-#### Prasad Dandekar
+#### [Swapna Reddy (Dec 2021)](https://md4sg.medium.com/interview-with-swapna-reddy-8d0d4cc39483)
 
-Head, Radiation Oncology, Sir H. N. Reliance Foundation Hospital and Research Centre.
-
-#### Michela Martinazzi and Josh Komarovsky
-
-Volunteers at the New York Community Action Project (NYCAP), an organization which advocates for community control of the local police service with the aim of preventing policy brutality.
-
-#### Stephen Kalungu
-
-Senior Manager at GiveDirectly's Kenya office. GiveDirectly provide cash grants to people in need in several African countries and in the United States.
-
-#### Verity Firth
-
-Former New South Wales Minister for Education and Training (2008–2011).
-
-#### Dianne Schwartz
-
-Vocational Counsellor and a Registered Clinical Counsellor in British Columbia, Canada. Dianne talked to us about her work with Alexandra Neighbourhood House, which provides a wide variety of community services for people of all ages, abilities, and cultures.
-
-#### Kelly Bollinger, Benjamin Martin, and Gretchen Schober
-
-Leaders of the Clemson All-In Recovery (CAIR), a student organization aiming to support students interested in recovery from addictions, allies of recovery, or anyone affected by addiction.
-
- 
+Co-founder and co-executive director of Asylum Seeker Advocacy Project (ASAP), a non-profit organisation that strives to improve the lives of asylum seekers in the United States.
 
 ### Working Group Organizers
-|                 |             |                                  |
+|        Name         |     Position        |               Affiliation                   |
 |-----------------|-------------|----------------------------------|
 [Mackenzie Jorgensen](https://mjorgen1.github.io/) | Graduate Student | King's College London
-[Kristen Scott](https://www.linkedin.com/in/kristen-scott-73414687/) | Graduate Student | KU Leuven
 [Wendy Xu](https://xunwendyxu.wixsite.com/website) | Postdoctoral Researcher | HKUST
 
 ### Working Group Members
-|                 |             |                                  |
+|        Name         |     Position        |               Affiliation                   |
 |-----------------|-------------|----------------------------------|
-[Eren Alay](https://www.linkedin.com/in/eren-alay/) | UX Researcher | Google
-[Tayo Fabusuyi](https://midas.umich.edu/faculty-member/tayo-fabusuyi/) | Research Faculty | University of Michigan
-[Michelle Feng](#) | Postdoctoral Researcher | Caltech
-[Jessie Finocchiaro](https://jfinocchiaro.github.io/) | Graduate Student | Affiliation
+[Jessie Finocchiaro](https://jfinocchiaro.github.io/) | Assistant Professor | Boston College
 [Yaren Bilge Kaya](https://yarenbilgekaya.wixsite.com/yarenbilgekaya/publications) | Graduate Student | Northeastern University
-[Saikrishna Muralidaran](#) | Undergraduate Student | Sardar Patel Institute of Technology
 [Di Nguyen](https://www.linkedin.com/in/di-h-nguyen-45b49929/) | Graduate Student | Clemson University
-[Frank Ojwang](https://research.ulapland.fi/en/persons/frank-ojwang) | Graduate Student | University of Lapland
 [Matthew Olckers](https://www.matthewolckers.com/) | Postdoctoral Researcher | UNSW Sydney
-[Benjamin Otieno](https://www.linkedin.com/in/otieno/) | Graduate Student | Kibabii University
-Mayra Russo | Graduate Student | L3S / Leibniz University Hannover
-[Lorenn Ruster](https://www.linkedin.com/in/lorennruster/) | Graduate Student | Australian National University
-[Emil Temnyalov](https://sites.google.com/site/temnyalov/) | Senior Lecturer | University of Technology Sydney
-[Kentaro Tomoeda](https://sites.google.com/site/kentarotomoeda/) | Senior Lecturer | University of Technology Sydney
-[Jeremy Vollen](https://www.linkedin.com/in/jeremy-vollen/) | Graduate Student | UNSW Sydney
+[Mayra Russo](https://orcid.org/0000-0001-7080-6331) | Graduate Student | L3S / Leibniz University Hannover
+[Wendy Xu](https://www.linkedin.com/in/wendy-xu-884b342a/) | Postdoctoral Researcher | The Chinese University of Hong Kong
+[Sakina Hansen](https://www.linkedin.com/in/sakinahansen/) | Graduate Student | London School of Economics
+[Nino Migineishvili](https://niniko1997.github.io/) | Graduate Student | University of Washington
+Eugene Kim | Graduate Student | University of Michigan
+[Argyris Oikonomou](https://aroikonomou.github.io/) | Graduate Student | Yale University
+Daniela Cialfi | Assistant Professor | Institute for Complex Systems
 
+### Previous Working Group Organizers
+|        Name         |     Position        |               Affiliation                   |
+|-----------------|-------------|----------------------------------|
+[Wendy Xu](https://www.linkedin.com/in/wendy-xu-884b342a/) | Postdoctoral Researcher | The Chinese University of Hong Kong
+[Matthew Olckers](https://www.matthewolckers.com/) | Postdoctoral Researcher | UNSW Sydney
 
 Our group is grateful to Salma Belhajali, a journalist based in Morocco, for giving us training on conducting interviews, and to Christian Ramirez for co-leading at the beginning stages.

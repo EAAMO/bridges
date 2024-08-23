@@ -18,7 +18,7 @@ Activities we will engage in are: *curriculum design, curriculum building, acces
 
 We welcome involvement in this working group! If you're interested in joining, please reach out to one of the organizers:
 
-|                 |             |                                  |
+|        Name         |     Position        |               Affiliation                   |
 |-----------------|-------------|----------------------------------|
 | [Kenya Andrews](https://leadershipportfolio.wixsite.com/kenyaandrewscv) | PhD Candidate | University of Illinois at Chigago             |
 

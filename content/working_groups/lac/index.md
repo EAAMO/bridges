@@ -32,19 +32,19 @@ The EJUCIAM working group meets virtually every two weeks on zoom. In our meetin
 If you’re interested in joining EJUCIAM and our broader initiatives around indigenous communities, please feel free to reach out to our working group organizers or fill out this form: https://forms.gle/7eE1dAoeJ1wMPmri9
 
 ## Working Group Organizer
-||||
+|        Name         |     Position        |               Affiliation                   |
 |--- |--- |--- |
 |[Flor ángel Pérez Sánchez](https://www.uv.mx/citro/)|Master's Student in Tropical Ecology|CITRO|
 |[Yésica Gómez Hernández](https://uatx.mx/)|Doctoral Student in Educational Research|UATx|
 
 ## Academic Advisor
-||||
+|        Name         |     Position        |               Affiliation                   |
 |--- |--- |--- |
 |[Francisco Marmolejo Cossío](https://www.fmarmolejo.com/)|Postdoctoral Fellow|Harvard University|
 |[Michelle González Amador](https://www.m-gonzalezamador.com/)|Doctoral Student|UNU-MERIT and Maastricht University|
 
 ## Working Group Members
-||||
+|        Name         |     Position        |               Affiliation                   |
 |--- |--- |--- |
 |Adriana Santiago Marcelino|Master's Degree in Human Rights|UASLP|
 |Alma Benita Cruz González|Master's Student in Social Medicine|UAM|
