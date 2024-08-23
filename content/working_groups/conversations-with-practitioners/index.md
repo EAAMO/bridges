@@ -51,7 +51,7 @@ Co-founder and co-executive director of Asylum Seeker Advocacy Project (ASAP), a
 |        Name         |     Position        |               Affiliation                   |
 |-----------------|-------------|----------------------------------|
 [Mackenzie Jorgensen](https://mjorgen1.github.io/) | Graduate Student | King's College London
-[Wendy Xu](https://xunwendyxu.wixsite.com/website) | Postdoctoral Researcher | HKUST
+[Kristen Scott](https://www.linkedin.com/in/kristen-scott-73414687/) | Graduate Student | KU Leuven
 
 ### Working Group Members
 |        Name         |     Position        |               Affiliation                   |
