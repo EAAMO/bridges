@@ -54,7 +54,16 @@ We warmly welcome group member presentation on but not limited to following conc
 - Prof. Dr. Michèle Finck, LL.M. (University of Tübingen)
 - Sayash Kapoor (Princeton University)
 
-## Meeting Speakers
+## Working Group Organizers
+
+|                 |             |                                  |
+|-----------------|-------------|----------------------------------|
+| [Joachim Baumann](https://www.ifi.uzh.ch/en/scg/people/Baumann.html) | PhD Student | University of Zurich             |
+| [Xudong Shen](https://xudongolivershen.github.io/)     | PhD Student | National University of Singapore |
+
+With a lot of help from [Ana-Andreea Stoica](http://www.columbia.edu/~as5001/), [Thomas Gilbert](https://www.thomaskrendlgilbert.com/), and [Ayse Yasar](https://www.lse.ac.uk/law/people/academic-staff/ayse-gizem-yasar).
+
+## Meeting the ALP WG Speakers
 
 |                  |                                                                                                                         |             |
 |------------------|-------------------------------------------------------------------------------------------------------------------------|-------------|
@@ -78,10 +87,3 @@ We warmly welcome group member presentation on but not limited to following conc
 | [Kandrea Wade](https://kandreawade.com/)     | How we've taught algorithms to see identity: constructing race and gender in image databases for facial analysis ([link](https://simons.berkeley.edu/news/mapping-political-economy-reinforcement-learning-systems-case-autonomous-vehicles)) | 01 Apr 2021 |
 | [Ayse Yasar](https://www.sciencespo.fr/ecole-de-droit/en/profile/gizem-yasar-ayse.html)       | Antitrust and Big Tech                                                                                                  | 18 Mar 2021 |
 | [Thomas Gilbert](https://www.sciencespo.fr/ecole-de-droit/en/profile/gizem-yasar-ayse.html)  | Mapping the Political Economy of Reinforcement Learning Systems: The Case of Autonomous Vehicles ([link](https://simons.berkeley.edu/news/mapping-political-economy-reinforcement-learning-systems-case-autonomous-vehicles))                 | 04 Mar 2021 |
-
-## Working Group Organizers
-
-|                 |             |                                  |
-|-----------------|-------------|----------------------------------|
-| [Joachim Baumann](https://www.ifi.uzh.ch/en/scg/people/Baumann.html) | PhD Student | University of Zurich             |
-| [Xudong Shen](https://xudongolivershen.github.io/)     | PhD Student | National University of Singapore |
