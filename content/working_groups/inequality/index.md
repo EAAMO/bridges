@@ -30,6 +30,7 @@ The EAAMO-Bridges inequality working group studies how optimization, incentive d
 |        Name         |     Position        |               Affiliation                   |
 |----------------|-----------------------------------------|--------------------------|
 | [Samuel Taggart](http://www.samueltaggart.com/) | Assistant Professor in Computer Science | Oberlin College          |
+| [Serafina Kamp](https://websites.umich.edu/~serafibk/) | PhD candidate | University of Michigan          |
 
 ## Working Group Members
 | Name                                             | Position                                                          | Affiliation                                                   |
