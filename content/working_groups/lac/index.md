@@ -41,7 +41,7 @@ If you’re interested in joining EJUCIAM and our broader initiatives around ind
 |        Name         |     Position        |               Affiliation                   |
 |--- |--- |--- |
 |[Francisco Marmolejo Cossío](https://www.fmarmolejo.com/)|Postdoctoral Fellow|Harvard University|
-|[Michelle González Amador](https://www.m-gonzalezamador.com/)|Doctoral Student|UNU-MERIT and Maastricht University|
+|[Michelle González Amador](https://www.m-gonzalezamador.com/)|Postdoctoral Researcher|Wageningen University & Research|
 
 ## Working Group Members
 |        Name         |     Position        |               Affiliation                   |

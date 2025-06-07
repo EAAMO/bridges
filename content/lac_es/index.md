@@ -41,7 +41,7 @@ Si está interesado/a/e en unirse a EJUCIAM y nuestras iniciativas más amplias 
 ||||
 |--- |--- |--- |
 |[Francisco Marmolejo Cossío](https://www.fmarmolejo.com/)|Investigador Postdoctoral|Harvard University|
-|[Michelle González Amador](https://www.m-gonzalezamador.com/)|Estudiante de Doctorado|UNU-MERIT and Maastricht University|
+|[Michelle González Amador](https://www.m-gonzalezamador.com/)|Investigador Postdoctoral|Wageningen University & Research|
 
 ## Miembros del Grupo de Trabajo
 ||||
