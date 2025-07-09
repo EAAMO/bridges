@@ -10,6 +10,7 @@ This page shows the newsletters MD4SG and EAAMO created. They are packed with hi
 
 If you are interested into our Newsletters, please find them below.
 
+* [EAAMO Newsletter #3](EAAMO_Newsletter_3.pdf)
 * [EAAMO Newsletter #2](EAAMO_Newsletter_2.pdf)
 * [EAAMO Newsletter #1](EAAMO_Newsletter_1.pdf)
 * [MD4SG Newsletter #6](MD4SG_Newsletter_6.pdf)
