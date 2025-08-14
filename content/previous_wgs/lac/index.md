@@ -2,7 +2,7 @@
 title: "Equity and Justice for Indigenous Communities in the Americas"
 date: 2024-01-02
 draft: false
-description: "The EJUCIAL working group is an extension of the MD4SG Summer of Science program which supports female students from indigenous communities in Mexico as they design and execute research projects aimed at improving their local communities."
+description: "Concluded in Spring 2025. The EJUCIAL working group is an extension of the MD4SG Summer of Science program which supports female students from indigenous communities in Mexico as they design and execute research projects aimed at improving their local communities."
 summary: "We bring together researchers, members of indigenous communities, activists, and community leaders to formulate policies, strategies, and programs that promote fairness, access to resources, and the protection of rights for Indigenous communities amongst other topics."
 showTableOfContents: false
 slug: "lac"

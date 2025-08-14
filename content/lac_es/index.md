@@ -2,7 +2,7 @@
 title: "Equidad y Justicia en Comunidades Indígenas de América Latina (EJUCIAL)"
 date: 2024-01-02
 draft: false
-description: "El Grupo de Trabajo sobre Equidad y Justicia para las Comunidades Indígenas en Américas (EJUCIAL) es una iniciativa enfocada en abordar las desigualdades históricas y sistémicas enfrentadas por los pueblos indígenas en toda la región."
+description: "Concluido en la primavera de 2025. El Grupo de Trabajo sobre Equidad y Justicia para las Comunidades Indígenas en Américas (EJUCIAL) es una iniciativa enfocada en abordar las desigualdades históricas y sistémicas enfrentadas por los pueblos indígenas en toda la región."
 summary: "El Grupo de Trabajo sobre Equidad y Justicia para las Comunidades Indígenas en Américas (EJUCIAL) es una iniciativa enfocada en abordar las desigualdades históricas y sistémicas enfrentadas por los pueblos indígenas en toda la región."
 showTableOfContents: false
 slug: "lac"
