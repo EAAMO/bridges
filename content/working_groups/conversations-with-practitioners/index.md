@@ -1,5 +1,5 @@
 ---
-title: "Conversations with Practitioners"
+title: "Living Labs with Practitioners (old name Conversations with Practitioners)"
 date: 2024-02-02
 draft: false
 description: "The aim of this working group is to learn from practitioners. We want to know their story, understand their main challenges, and discover if tools from mechanism design apply to their domain."
@@ -13,7 +13,9 @@ The EAAMO-Bridges community aims to bridge research and practice, but many resea
 
 In previous years, our group has been focused solely on interviewing practitioners. The group meets at the beginning of the year to get to know one another; throughout the year, our group members lead informal interviews with practitioners of their choosing alongside our group (similar to a “fireside chat”). After the interview, we summarise the main insights into a blog post, examples of which can be found below.
 
-For the 2024-2025 year, we aim to build a new structure. In the autumn, we plan to hold multiple conversations with one organization to scope a project with them to which our members can contribute. We have a few different organizations we are in touch with, including [Chayn](https://www.chayn.co/) (gender based violence tech-focused NGO), the EAAMO Social Hackathon organizers (who have access to a Mexican breast cancer dataset with environmental and policy elements), [AlgorithmWatch](https://algorithmwatch.org/en/), and the [Center for Analytical Approaches to Social Innovation](https://www.caasi.pitt.edu/). For the winter/spring 2025, we then will dive into a project we have designed with our partner organization. 
+<!-- For the 2024-2025 year, we aim to build a new structure. In the autumn, we plan to hold multiple conversations with one organization to scope a project with them to which our members can contribute. We have a few different organizations we are in touch with, including [Chayn](https://www.chayn.co/) (gender based violence tech-focused NGO), the EAAMO Social Hackathon organizers (who have access to a Mexican breast cancer dataset with environmental and policy elements), [AlgorithmWatch](https://algorithmwatch.org/en/), and the [Center for Analytical Approaches to Social Innovation](https://www.caasi.pitt.edu/). For the winter/spring 2025, we then will dive into a project we have designed with our partner organization.  -->
+
+We explore co-experimentation with social impact practitioners using participatory methods to ask: *How can AI systems of care be developed for vulnerable and underserved communities — and what is “safe enough”?* Our work bridges generative AI, human–computer interaction, public policy, and the social sciences. In 2025, papers developed by the group were selected for leading conferences including AAAI and APPAM.
 
 ### Interviews
 
@@ -50,8 +52,7 @@ Co-founder and co-executive director of Asylum Seeker Advocacy Project (ASAP), a
 ### Working Group Organizers
 |        Name         |     Position        |               Affiliation                   |
 |-----------------|-------------|----------------------------------|
-[Mackenzie Jorgensen](https://mjorgen1.github.io/) | Graduate Student | King's College London
-[Kristen Scott](https://www.linkedin.com/in/kristen-scott-73414687/) | Graduate Student | KU Leuven
+[Ashley Khor](https://www.spia.pitt.edu/people/ashley-wae-jan-khor) | PhD Student | University of Pittsburgh
 
 ### Working Group Members
 |        Name         |     Position        |               Affiliation                   |
@@ -73,5 +74,7 @@ Daniela Cialfi | Assistant Professor | Institute for Complex Systems
 |-----------------|-------------|----------------------------------|
 [Wendy Xu](https://www.linkedin.com/in/wendy-xu-884b342a/) | Postdoctoral Researcher | The Chinese University of Hong Kong
 [Matthew Olckers](https://www.matthewolckers.com/) | Postdoctoral Researcher | UNSW Sydney
+[Mackenzie Jorgensen](https://mjorgen1.github.io/) | Graduate Student | King's College London
+[Kristen Scott](https://www.linkedin.com/in/kristen-scott-73414687/) | Graduate Student | KU Leuven
 
 Our group is grateful to Salma Belhajali, a journalist based in Morocco, for giving us training on conducting interviews, and to Christian Ramirez for co-leading at the beginning stages.
