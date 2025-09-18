@@ -5,7 +5,7 @@ draft: false
 description: "This working group will explore the growing role of algorithms and artificial intelligence in household finance — an area of economics that studies how people save, borrow, invest, and use financial products to manage their well-being."
 summary: "Advances in machine learning and automated decision-making are transforming how financial services are designed, priced, and delivered. These changes raise important questions about efficiency, fairness, consumer welfare, and regulation. Our aim is to bring together researchers and practitioners interested in understanding these developments and their implications."
 showTableOfContents: false
-slug: "algorithm-in-household-finance"
+slug: "algorithms-in-household-finance"
 layout: simple
 ---
 
