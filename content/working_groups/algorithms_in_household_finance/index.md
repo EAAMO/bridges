@@ -28,15 +28,14 @@ Future meetings may also include invited talks, collaborative research discussio
 ### Working Group Members
 |        Name         |     Position        |               Affiliation                   |
 |-----------------|-------------|----------------------------------|
-| Elie Alhajjar | Policy Researcher | RAND |
-| Bikramaditya Datta | Associate Professor | IIT Kanpur
-| Vinay Kumar Jha | Graduate student | IIM Ahmedabad |
-| Alessandro Leite | Associate Professor | INSA Rouen,  Paris Saclay University | 
-| Subin Min | Graduate student | University of Michigan, Ann Arbor | 
-| Keziah Naggita | Graduate student | TTIC |
-| Kuheli Sai | Graduate student | University of Pittsburgh | 
-| Jad Soucar | Graduate student | University of Southern California |
-| Hiwot Belay Tadesse | Graduate student | Harvard University | 
-| Felipe Verástegui  | Graduate student | Columbia University |
+| [Elie Alhajjar](https://sites.google.com/site/eliealhajjar/home) | Policy Researcher | RAND |
+| [Bikramaditya Datta](https://sites.google.com/site/bikramdatta14/bikramaditya-datta) | Associate Professor | IIT Kanpur
+| [Vinay Kumar Jha](https://www.iima.ac.in/phdprofile/vinay-kumar-jha) | Graduate student | IIM Ahmedabad |
+| [Alessandro Leite](https://about.me/alessandroleite) | Associate Professor | INSA Rouen,  Paris Saclay University | 
+| [Subin Min](https://lsa.umich.edu/soc/people/current-graduate-students/subin-min.html) | Graduate student | University of Michigan, Ann Arbor | 
+| [Keziah Naggita](https://scholar.google.com/citations?user=Ho-tuzoAAAAJ&hl=en) | Graduate student | TTIC |
+| [Kuheli Sai](linkedin.com/in/kuhelisai) | Graduate student | University of Pittsburgh | 
+| [Jad Soucar](https://jadsoucar.github.io) | Graduate student | University of Southern California |
+| [Felipe Verástegui](https://scholar.google.com/citations?user=jqsom6gAAAAJ)  | Graduate student | Columbia University |
 
 
