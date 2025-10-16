@@ -16,7 +16,12 @@ Advances in machine learning and automated decision-making are transforming how 
 ## Format
 We have started as a **reading group**, meeting every two weeks to discuss recent academic papers and key research directions in the field.
 
-Future meetings may also include invited talks, collaborative research discussions, or policy-focused workshops depending on the group’s interests.
+We have started by focussing on credit scoring and we are discussing the following papers at our next few meetings:
+- [Björkegren, Daniel, Joshua E. Blumenstock, and Samsun Knight. "Manipulation-robust prediction." (2024).](https://dan.bjorkegren.com/manipulation.pdf)
+- [Hurlin, Christophe, Christophe Pérignon, and Sébastien Saurin. "The fairness of credit scoring models." Management Science (2024).](https://arxiv.org/pdf/2205.10200v2)
+- [Jansen, Mark, Hieu Quang Nguyen, and Amin Shams. "Rise of the machines: The impact of automated underwriting." Management Science 71, no. 2 (2025): 955-975.](https://pubsonline.informs.org/doi/10.1287/mnsc.2024.4986)
+- [Shema, Alain. "Effective credit scoring using limited mobile phone data." In Proceedings of the tenth international conference on information and communication technologies and development, pp. 1-11. 2019.](https://dl.acm.org/doi/pdf/10.1145/3287098.3287116)
+- [Bouyamourn, Adam, and Alexander Williams Tolbert. "Escaping the Subprime Trap in Algorithmic Lending." (2025).](https://arxiv.org/abs/2502.17816)
 
 
 ## Working Group Organizer
@@ -34,7 +39,7 @@ Future meetings may also include invited talks, collaborative research discussio
 | [Alessandro Leite](https://about.me/alessandroleite) | Associate Professor | INSA Rouen,  Paris Saclay University | 
 | [Subin Min](https://lsa.umich.edu/soc/people/current-graduate-students/subin-min.html) | Graduate student | University of Michigan, Ann Arbor | 
 | [Keziah Naggita](https://scholar.google.com/citations?user=Ho-tuzoAAAAJ&hl=en) | Graduate student | TTIC |
-| [Kuheli Sai](linkedin.com/in/kuhelisai) | Graduate student | University of Pittsburgh | 
+| [Kuheli Sai](https://www.linkedin.com/in/kuhelisai/) | Graduate student | University of Pittsburgh | 
 | [Jad Soucar](https://jadsoucar.github.io) | Graduate student | University of Southern California |
 | [Felipe Verástegui](https://scholar.google.com/citations?user=jqsom6gAAAAJ)  | Graduate student | Columbia University |
 
