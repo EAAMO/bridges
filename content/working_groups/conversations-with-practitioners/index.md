@@ -17,6 +17,8 @@ In previous years, our group has been focused solely on interviewing practitione
 
 We explore co-experimentation with social impact practitioners using participatory methods to ask: *How can AI systems of care be developed for vulnerable and underserved communities — and what is “safe enough”?* Our work bridges generative AI, human–computer interaction, public policy, and the social sciences. In 2025, papers developed by the group were selected for leading conferences including AAAI and APPAM.
 
+For more info or to get involved, visit our [Living Labs signup form](https://forms.gle/HKcBRVFspc58vtu87).
+
 *In previous years, the group hosted “Conversations with Practitioners” interviews; an abridged list is linked below.*
 
 **2024–2025.** We partnered with [Chayn](https://chayn.nyc/) — a global nonprofit making healing accessible for all survivors of gender-based violence — to reimagine technology in trauma-informed, multilingual, and feminist ways. Together, we co-developed a feminist GenAI framework as well as a trauma-informed safety evaluation methodology and participatory “test-a-thon” methods for GenAI tools. We also applied NLP and LLM techniques to analyze nearly 8,000 survivor hopes for healing from around the world. This work led to papers accepted at leading conferences such as the *Association for the Advancement of Artificial Intelligence* (AAAI) and the *Association for Public Policy Analysis and Management* (APPAM).
@@ -30,7 +32,20 @@ We bring together trauma-informed researchers and practitioners passionate about
 |-----------------|-------------|----------------------------------|
 [Ashley Khor](http://www.linkedin.com/in/ashleykhor) | PhD Student | University of Pittsburgh
 
-### Working Group Members
+
+### Working Group Members 2025/26
+|        Name         |     Position        |               Affiliation                   |
+|-----------------|-------------|----------------------------------|
+Aditya Majumdar | PhD student | The Pennsylvania State University
+Aminat Adebiyi | Research Staff Member | IBM Research
+Arunav Das | PhD student | Kings College London 
+Jiannan Xu | PhD Candidate | University of Maryland
+Miri Zilka | Assistant Research Professor | University of Cambridge
+Namrata Mukhija | Industry ML researcher | Amazon
+Nari Yoo | Assistant Professor | University of Michigan
+
+
+### Working Group Members 2024/25
 |        Name         |     Position        |               Affiliation                   |
 |-----------------|-------------|----------------------------------|
 Arunav Das | Graduate Student | King’s College London
