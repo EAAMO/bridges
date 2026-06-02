@@ -1,0 +1,55 @@
+<footer class="bridges-footer print:hidden">
+  <div class="bridges-footer__inner">
+    <div class="bridges-footer__brand">
+      <a class="bridges-footer__cta" href="{{ "join/" | relLangURL }}">Join the community</a>
+    </div>
+
+    <nav class="bridges-footer__nav" aria-label="Footer navigation">
+      <div>
+        <h2>Explore</h2>
+        <ul>
+          <li><a href="{{ "working_groups/" | relLangURL }}">Working Groups</a></li>
+          <li><a href="{{ "events/" | relLangURL }}">Events</a></li>
+          <li><a href="{{ "projects/" | relLangURL }}">Projects</a></li>
+        </ul>
+      </div>
+      <div>
+        <h2>Programs</h2>
+        <ul>
+          <li><a href="https://www.eaamo.org/" target="_blank" rel="noopener noreferrer">Global Community</a></li>
+          <li><a href="https://conference.eaamo.org/" target="_blank" rel="noopener noreferrer">ACM EAAMO Conference</a></li>
+        </ul>
+      </div>
+      <div>
+        <h2>Connect</h2>
+        <ul>
+          <li><a href="https://twitter.com/EAAMO_ORG" target="_blank" rel="noopener noreferrer">Twitter (X)</a></li>
+          <li><a href="https://www.youtube.com/channel/UC2hBoxmzDtAwTTjRRM99f4w/videos" target="_blank" rel="noopener noreferrer">YouTube</a></li>
+          <li><a href="mailto:bridges@eaamo.org">Mail</a></li>
+        </ul>
+      </div>
+    </nav>
+  </div>
+
+  <div class="bridges-footer__bottom">
+    <div>
+      {{ if .Site.Params.footer.showCopyright | default true }}
+        <p>
+          {{- with site.Copyright -}}
+            {{ . | emojify | markdownify }}
+          {{- else -}}
+            &copy; {{ now.Format "2006" }} {{ .Site.Language.Params.Author.name | markdownify | emojify }}
+          {{- end -}}
+        </p>
+      {{ end }}
+    </div>
+    <div class="bridges-footer__secondary-links">
+      <a class="bridges-footer__policy" href="{{ "policies/" | relLangURL }}">Policies</a>
+      <a href="mailto:bridges@eaamo.org">bridges@eaamo.org</a>
+    </div>
+  </div>
+
+  {{ if templates.Exists "_partials/extend-footer.html" }}
+    {{ partial "extend-footer.html" . }}
+  {{ end }}
+</footer>

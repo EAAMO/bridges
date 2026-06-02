@@ -20,6 +20,6 @@ EAAMO Conference
 
 <!-- ![People of EAAMO Bridges](images/EAAMO_LOGOMARK-01.png) -->
 
-<p align="center">
+<!-- <p align="center">
     <img src="images/EAAMO_LOGOMARK-01.png" alt="People of EAAMO Bridges" style="width:50%;" />
-</p>
+</p> -->

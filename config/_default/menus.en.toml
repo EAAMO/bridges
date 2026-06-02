@@ -11,40 +11,40 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
+  identifier = "working-groups"
   name = "Working Groups"
   pageRef = "working_groups"
   weight = 10
 
 [[main]]
+  identifier = "events"
   name = "Events"
   pageRef = "events"
   weight = 20
 
 [[main]]
+  identifier = "projects"
   name = "Projects"
   pageRef = "projects"
   weight = 30
 
 [[main]]
-  name = "Join Us"
-  pageRef = "join"
-  weight = 40
-
-[[main]]
-  name = "Global Community"
-  url = "https://www.eaamo.org/"
-  weight = 50
-
-[[main]]
-  name = "Conference"
-  url = "https://conference.eaamo.org/"
-  weight = 60
-
- [[main]]
   identifier = "search"
   weight = 99
   [main.params]
     action = "search"
+
+[[main]]
+  name = "Current Working Groups"
+  pageRef = "working_groups"
+  parent = "working-groups"
+  weight = 11
+
+[[main]]
+  name = "Previous Working Groups"
+  pageRef = "previous_wgs"
+  parent = "working-groups"
+  weight = 12
 
 # [[main]]
 #  identifier = "locale"

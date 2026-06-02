@@ -13,7 +13,7 @@ title = "EAAMO Bridges"
   description = "EAAMO Bridges"
 
 [params.author]
-  name = "EAAMO-Bridges"
+  name = "EAAMO Bridges"
   image = "img/logo.png"
   imageDark = "img/logo-dark.png"
   # headline = ""
