@@ -1,9 +1,24 @@
 <div style="display: flex;align-items: center;">
     <div style="flex: 1; padding: 10px;">
         <figure>
-            <img src="{{ .Get "src" }}"
-                style="border-radius:5px;"
-                alt="{{ .Get "name" }}">
+            {{ $src := .Get "src" }}
+            {{ $img := .Page.Resources.GetMatch $src }}
+            {{ with $img }}
+                {{ $processed := .Fit "420x420 webp q80" }}
+                <img src="{{ $processed.RelPermalink }}"
+                    width="{{ $processed.Width }}"
+                    height="{{ $processed.Height }}"
+                    loading="lazy"
+                    decoding="async"
+                    style="border-radius:5px;"
+                    alt="{{ $.Get "name" }}">
+            {{ else }}
+                <img src="{{ $src }}"
+                    loading="lazy"
+                    decoding="async"
+                    style="border-radius:5px;"
+                    alt="{{ .Get "name" }}">
+            {{ end }}
             <figcaption style="text-align:center"><b>{{ .Get "name" }}</b></figcaption>
         </figure>
     </div>
