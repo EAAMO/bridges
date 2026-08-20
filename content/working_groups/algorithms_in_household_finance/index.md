@@ -9,6 +9,8 @@ slug: "algorithms-in-household-finance"
 layout: simple
 ---
 
+*[Read a summary of the Algorithms in Household Finance Working Group's discussions during the second half of 2025 on Medium.](https://medium.com/eaamo/introduction-to-the-algorithms-in-household-finance-working-group-a22c4919362d)*
+
 This working group explores the growing role of algorithms and artificial intelligence in household finance, an area of economics that studies how people save, borrow, invest, and use financial products to manage their well-being.
 
 Advances in machine learning and automated decision-making are transforming how financial services are designed, priced, and delivered. These changes raise important questions about efficiency, fairness, consumer welfare, and regulation. Our aim is to bring together researchers and practitioners interested in understanding these developments and their implications.

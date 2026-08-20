@@ -8,6 +8,9 @@ showTableOfContents: false
 slug: "decolonization-stem"
 layout: simple
 ---
+
+*[Read a summary of the Decolonizing STEM Curriculum Working Group's discussions during the second half of 2025 on Medium.](https://medium.com/eaamo/introduction-to-the-decolonizing-stem-working-group-f780b1ff24e3)*
+
 **Goals:** We seek through this working group to develop a set of curricula for undergraduate students that will be developed and distributed through EAAMO Bridges. Our main goals are to develop these courses around Algorithms, Mechanisms, and Optimization that intersect various fields (i.e., healthcare, art, and law) from an approach that uplifts and acknowledges the efforts of marginalized folks in these spaces.
 
 **Why is this needed?** The reason for this is that institutions continue to limit our students by forcing them into a narrow focus on STEM that ultimately perpetuates the systems of power and oppression many marginalized people face. Our approach will prioritize centering the perspectives, knowledge, and experiences of historically marginalized groups and actively working to deconstruct and resist colonial structures and ideologies in STEM.

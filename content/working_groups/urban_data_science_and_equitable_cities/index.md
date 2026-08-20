@@ -9,6 +9,8 @@ slug: "urban-ds-equitable-cities"
 layout: simple
 ---
 
+*[Read a summary of the Urban Data Science & Equitable Cities Working Group's discussions during the second half of 2025 on Medium.](https://medium.com/eaamo/an-introduction-to-the-urban-data-working-group-e3a726860c73)*
+
 <div class="text-center">
     <a href="https://urban-data-science-eaamo.github.io/" class="btn btn-primary btn-lg btn-block border">
         Urban Data Science & Equitable Cities Website!

@@ -9,6 +9,8 @@ slug: "Inequality"
 layout: simple
 ---
 
+*[Read a summary of the Ineqality Working Group's discussions during the second half of 2025 on Medium.](https://medium.com/eaamo/introduction-to-the-inequality-working-group-19f8199bf1c7)*
+
 The EAAMO-Bridges inequality working group studies how optimization, incentive design, and machine learning can mitigate or magnify social and economic inequality. We are especially focused on provision and targeting of social programs: when and how should resources be directed specifically to the most vunlerable members of the population? How should these individuals be selected? Beyond these core questions, our research interests are wide-ranging, including both the philosophical underpinnings of economic design and the practical realities of studying institutions that serve vulnerable populations.
 
 ## Representative Projects

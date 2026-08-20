@@ -9,6 +9,8 @@ slug: "conversations-with-practitioners"
 layout: simple
 ---
 
+*[Read a summary of the Living Labs with Practitioners Working Group's discussions during the second half of 2025 on Medium.](https://medium.com/eaamo/introduction-to-the-living-labs-with-practitioners-working-group-9073f7153c1c)*
+
 <!-- The EAAMO-Bridges community aims to bridge research and practice, but many researchers have few opportunities to connect with practitioners. The aim of this working group is to learn from practitioners and contribute our skillsets when collaborating on problems with them. These practitioners work with historically marginalized communities and often have an interest, or expertise, in the ways technology disproportionately affects these communities. 
 
 In previous years, our group has been focused solely on interviewing practitioners. The group meets at the beginning of the year to get to know one another; throughout the year, our group members lead informal interviews with practitioners of their choosing alongside our group (similar to a “fireside chat”). After the interview, we summarise the main insights into a blog post, examples of which can be found below. -->
