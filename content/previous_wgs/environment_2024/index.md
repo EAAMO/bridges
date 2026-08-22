@@ -8,6 +8,8 @@ showTableOfContents: false
 slug: "environment"
 layout: simple
 ---
+*This working group was active from Fall 2024 to Fall 2025.*
+
 According to the Intergovernmental Panel on Climate Change (IPCC) report, human-caused climate change already has visible impacts on weather, food security, financial wealth, biodiversity loss, and overall human health. In the EAAMO Bridges Environmental Group, we study how tools from algorithmic decision, machine learning, and causal inference can help us measure and identify the effects of environmental degradation and propose new pathways to more sustainable societal development. We will discuss how market design can be helpful when thinking about carbon bonds or biodiversity conservation, as well as how we can use a combination of ML and causal inference to identify adaptation policies to a changing environment. We will meet biweekly to hear from different researchers in the field or group members, followed by a discussion.
 
 
