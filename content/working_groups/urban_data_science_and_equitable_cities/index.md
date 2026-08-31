@@ -19,7 +19,9 @@ layout: simple
 
 Follow Urban Data Science working group on [BlueSky](https://bsky.app/profile/urban-data.bsky.social).
 
-By 2050, the UN projects that 68% of the population will live in a city. Cities are an increasingly important aspect of daily life, affecting long-term health and access to job opportunities. The use of data to guide decision-making, improve the responsiveness of local government, and reduce inequality has become critical. With the advent of the open data movement for cities, the volume of urban data has exploded. In addition to officially-published open datasets, unique sources of unstructured data, including text and images, are becoming more abundant, providing new opportunities for analyzing urban environments and their occupants. In this EAAMO Bridges working group on urban data science & equity, we host speakers, study papers, and workshop late-stage work relating to the sophisticated computational analysis of urban data, emphasizing topics that both explore and address inequities in urban life. This group began meeting in Summer 2024 as a Cornell reading group on urban data science, incorporating members from information science, computer science, urban planning, sociology, and public policy.
+By 2050, the UN projects that 68% of the population will live in a city. The structure of contemporary cities mediates important aspects of our daily lives, affecting long-term health and access to job opportunities. Using data to guide urban decision-making, improve the responsiveness of local government, and reduce inequality has become critical and requires thinking both about the methodological limitations of technical systems and their societal implications. With the advent of the open data movement for cities, the volume of urban data has exploded. In addition to open datasets published and maintained by city governments, unique sources of unstructured data, including text and images, are becoming more abundant, providing new opportunities for analyzing urban environments.
+
+In this working group, we consider how academics, practitioners, and all citizens can responsibly leverage urban data to scrutinize and improve our cities with computational methods. We are a seminar-style working group, alternating between work-in-progress presentations from our members and invited speaker lectures emphasizing topics that both explore and address inequities in urban life. Our goal is to foster interdisciplinary communication, and we welcome members from many academic disciplines as well as non-profit researchers and city agency data scientists.
 
 We meet every other week for a presentation from an invited speaker or group member, followed by sustained discussion.
 
@@ -29,6 +31,6 @@ We welcome involvement in this working group! If you're interested in joining, p
 
 |        Name         |     Position        |               Affiliation                   |
 |-----------------|-------------|----------------------------------|
-| [Jennah Gosciak](https://jennahgosciak.github.io/wp/about.html) | PhD Student | Cornell University             |
-| [Matt Franchi](https://mattwfranchi.github.io/)     | PhD Student | Cornell University |
-| [Gabriel Agostini](https://scholar.google.com/citations?user=5PQDJ1gAAAAJ)     | PhD Student | Cornell University |
+| [Jennah Gosciak](https://jennahgosciak.github.io/) | PhD Student | Cornell University             |
+| [Matt Franchi](https://mfranchi.net/)     | PhD Student | Cornell University |
+| [Gabriel Agostini](https://gsagostini.github.io/)     | PhD Student | Cornell University |
