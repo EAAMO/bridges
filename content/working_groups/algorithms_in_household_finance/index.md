@@ -65,5 +65,6 @@ We began by focusing on credit scoring, with the following papers:
 | Name | Affiliation |
 |------|-------------|
 | [Elie Alhajjar](https://sites.google.com/site/eliealhajjar/home) | RAND |
-| [Genevieve M Smith](https://scholar.google.com/citations?user=rigAfKYAAAAJ&hl=en) | Stanford University |
+| [Abinash Mishra](https://www.linkedin.com/in/abinash-mishra/) | Jindal Global Business School |
 | [Kuheli Sai](https://www.linkedin.com/in/kuhelisai/) | University of Pittsburgh |
+| [Genevieve M Smith](https://scholar.google.com/citations?user=rigAfKYAAAAJ&hl=en) | Stanford University |
