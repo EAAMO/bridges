@@ -17,11 +17,49 @@ layout: simple
 
 Activities we will engage in are: *curriculum design, curriculum building, access and accessible design, student development, career readiness in Algorithms, Mechanisms, and Optimization, and student support towards the goals we’ve mentioned earlier*.
 
-## Working Group Organizer
+**Format:** Biweekly meetings where we discuss our project. From time to time, we have invited speakers who come to share their knowledge on a topic of interest.
 
-We welcome involvement in this working group! If you're interested in joining, please reach out to one of the organizers:
+### Selected Deliverables
+
+- A research paper currently on arXiv: [A Justice Lens on Fairness and Ethics Courses in Computing Education: LLM-Assisted Multi-Perspective and Thematic Evaluation](https://arxiv.org/abs/2510.18931) (under review).
+
+### Working Group Organizer 2026
+
+We welcome involvement in this working group! If you're interested in joining, please reach out to the organizer:
 
 |        Name         |     Position        |               Affiliation                   |
 |-----------------|-------------|----------------------------------|
-| [Kenya Andrews](https://leadershipportfolio.wixsite.com/kenyaandrewscv) | PhD Candidate | University of Illinois at Chigago             |
+[Deborah D. Kanubala](https://www.linkedin.com/in/kanubalad/?isSelfProfile=false) | Doctoral Researcher | Saarland University
 
+### Working Group Members
+
+|        Name         |     Position        |               Affiliation                   |
+|-----------------|-------------|----------------------------------|
+Ajani Adedeji Hammed | Postdoc | University of Johannesburg
+Reetahan Mukhopadhyay | PhD Student | NYU
+Bih Janet Shufor | Learning Scientist | Intelligent Futures
+Aishat Toye | Applied ML Researcher | Stevens Institute of Technology
+Natalí Alcalá | |
+
+### Previous Working Group Organizers
+
+|        Name         |     Position        |               Affiliation                   |     Year     |
+|-----------------|-------------|----------------------------------|-------------|
+[Kenya Andrews](https://leadershipportfolio.wixsite.com/kenyaandrewscv) | Postdoc | Brown University | 2024–2026
+
+### Alumni of the Working Group
+
+|        Name         |     Position        |               Affiliation                   |     Year     |
+|-----------------|-------------|----------------------------------|-------------|
+Renata Revelo Alonso | Associate Professor | University of Illinois | 2026
+Raechel Walker | PhD Student | MIT Media Lab's Personal Robots Group | 2026
+Taban Habibu | Senior Lecturer | Islamic University | 2026
+George Musumba | Senior Lecturer | Dedan Kimathi University of Technology | 2026
+Aishat Toye | Applied ML Researcher | Stevens Institute of Technology | 2026
+Segun Adebayo | Design Engineer & Product Designer | | 2026
+Neal Patwari | Professor | University of Utah | 2026
+David Cao | | | 2026
+Fisseha Gidey Gebremedhin | PhD Student | Queen's University | 2026
+Francis Castro | Research Scientist | University of Massachusetts Amherst | 2026
+Kehinde Aruleba | Lecturer | University of Leicester | 2026
+Pratiti Deb | Postdoc | | 2026
