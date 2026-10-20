@@ -24,15 +24,16 @@ We meet every two weeks as a **reading group** to discuss recent academic papers
 
 ### First Half of 2026
 
-- Liu, Yidi, Xin Li, and Zhiqiang Zheng. "Smart natural disaster relief: Assisting victims with artificial intelligence in lending." Information Systems Research 35, no. 2 (2024): 489–504.
-- Calder-Wang, Sophie, and Gi Heung Kim. "Algorithmic pricing in multifamily rentals: Efficiency gains or price coordination?" Working Paper (2024).
-- Adams, Abi, Kristiina Huttunen, Emily Nix, and Ning Zhang. "The dynamics of abusive relationships." The Quarterly Journal of Economics 139, no. 4 (2024): 2135–2180.
-- Bellini, Rosanna. "Paying the price: When intimate partners use technology for financial harm." In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems, pp. 1–17. 2023.
+- [Liu, Yidi, Xin Li, and Zhiqiang Zheng. "Smart natural disaster relief: Assisting victims with artificial intelligence in lending." Information Systems Research 35, no. 2 (2024): 489–504.](https://doi.org/10.1287/isre.2023.1230)
+- [Calder-Wang, Sophie, and Gi Heung Kim. "Algorithmic pricing in multifamily rentals: Efficiency gains or price coordination?" Working Paper (2024).](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4403058)
+- [Adams, Abi, Kristiina Huttunen, Emily Nix, and Ning Zhang. "The dynamics of abusive relationships." The Quarterly Journal of Economics 139, no. 4 (2024): 2135–2180.](https://doi.org/10.1093/qje/qjae022)
+- [Bellini, Rosanna. "Paying the price: When intimate partners use technology for financial harm." In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems, pp. 1–17. 2023.](https://doi.org/10.1145/3544548.3581101)
 - [Avenhaus, Rudolf, Bernhard von Stengel, and Shmuel Zamir. "Inspection Games." February 5, 2001.](https://www.maths.lse.ac.uk/personal/stengel/TEXTE/insp.pdf)
 
 ### Second Half of 2025
 
 We began by focusing on credit scoring, with the following papers:
+
 - [Björkegren, Daniel, Joshua E. Blumenstock, and Samsun Knight. "Manipulation-robust prediction." (2024).](https://dan.bjorkegren.com/manipulation.pdf)
 - [Hurlin, Christophe, Christophe Pérignon, and Sébastien Saurin. "The fairness of credit scoring models." Management Science (2024).](https://arxiv.org/pdf/2205.10200v2)
 - [Jansen, Mark, Hieu Quang Nguyen, and Amin Shams. "Rise of the machines: The impact of automated underwriting." Management Science 71, no. 2 (2025): 955-975.](https://pubsonline.informs.org/doi/10.1287/mnsc.2024.4986)
@@ -42,27 +43,27 @@ We began by focusing on credit scoring, with the following papers:
 
 ## Working Group Organizer
 
-|        Name         |     Position        |               Affiliation                   |
-|-----------------|-------------|----------------------------------|
-| [Matthew Olckers](https://matthewolckers.com/) | Senior Researcher | Stellenbosch University             |
+| Name | Affiliation |
+|------|-------------|
+| [Matthew Olckers](https://matthewolckers.com/) | Stellenbosch University |
 
 ### Working Group Members
-|        Name         |     Position        |               Affiliation                   |
-|-----------------|-------------|----------------------------------|
-| [Bikramaditya Datta](https://sites.google.com/site/bikramdatta14/bikramaditya-datta) | Associate Professor | IIT Kanpur
-| [Mutembesa Daniel](https://www.linkedin.com/in/mutembesa-daniel-447452165/) | | |
-| [Vinay Kumar Jha](https://www.iima.ac.in/phdprofile/vinay-kumar-jha) | Graduate student | IIM Ahmedabad |
-| [Alessandro Leite](https://about.me/alessandroleite) | Associate Professor | INSA Rouen,  Paris Saclay University | 
-| [Subin Min](https://lsa.umich.edu/soc/people/current-graduate-students/subin-min.html) | Graduate student | University of Michigan, Ann Arbor | 
-| [Keziah Naggita](https://scholar.google.com/citations?user=Ho-tuzoAAAAJ&hl=en) | Graduate student | TTIC |
-| [Jad Soucar](https://jadsoucar.github.io) | Graduate student | University of Southern California |
-| [Alex Tuononen](https://www.linkedin.com/in/alextu1/) | | |
-| [Felipe Verástegui](https://scholar.google.com/citations?user=jqsom6gAAAAJ)  | Graduate student | Columbia University |
+| Name | Affiliation |
+|------|-------------|
+| [Bikramaditya Datta](https://sites.google.com/site/bikramdatta14/bikramaditya-datta) | IIT Kanpur |
+| [Mutembesa Daniel](https://www.linkedin.com/in/mutembesa-daniel-447452165/) | Makerere University |
+| [Vinay Kumar Jha](https://www.iima.ac.in/phdprofile/vinay-kumar-jha) | IIM Ahmedabad |
+| [Alessandro Leite](https://about.me/alessandroleite) | INSA Rouen, Paris Saclay University |
+| [Subin Min](https://lsa.umich.edu/soc/people/current-graduate-students/subin-min.html) | University of Michigan, Ann Arbor |
+| [Keziah Naggita](https://scholar.google.com/citations?user=Ho-tuzoAAAAJ&hl=en) | TTIC |
+| [Jad Soucar](https://jadsoucar.github.io) | University of Southern California |
+| [Alex Tuononen](https://www.linkedin.com/in/alextu1/) | New York University |
+| [Felipe Verástegui](https://scholar.google.com/citations?user=jqsom6gAAAAJ) | Columbia University |
 
 ### Past Working Group Members
 
-| Name |
-|------|
-| [Elie Alhajjar](https://sites.google.com/site/eliealhajjar/home) | Policy Researcher | RAND |
-| [Genevieve M Smith](https://scholar.google.com/citations?user=rigAfKYAAAAJ&hl=en) |
-| [Kuheli Sai](https://www.linkedin.com/in/kuhelisai/) | Graduate student | University of Pittsburgh | 
+| Name | Affiliation |
+|------|-------------|
+| [Elie Alhajjar](https://sites.google.com/site/eliealhajjar/home) | RAND |
+| [Genevieve M Smith](https://scholar.google.com/citations?user=rigAfKYAAAAJ&hl=en) | Stanford University |
+| [Kuheli Sai](https://www.linkedin.com/in/kuhelisai/) | University of Pittsburgh |
